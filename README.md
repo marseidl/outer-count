@@ -10,7 +10,7 @@ build outer-count
 
 ## Usage
 
-Run  ./outer-count <qdimacs-file>
+Run  ./outer-count &lt;qdimacs-file&gt;
 
 
 ## Contact
